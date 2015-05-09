@@ -1,1 +1,0 @@
-appium -a 0.0.0.0 -p 4723 --app-pkg com.webmd.baby --app-activity com.webmd.baby.SplashActivity --no-reset --device-ready-timeout 10
