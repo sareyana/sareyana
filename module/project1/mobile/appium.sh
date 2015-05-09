@@ -1,0 +1,1 @@
+appium -a localhost -p 4723 --app /Users/vkannan/Desktop/Selenium/WebMD/Sareyana/module/project1/mobile/AbeilleDor.app --full-reset -l --platform-name iOS --device-name  "iPhone 5s"

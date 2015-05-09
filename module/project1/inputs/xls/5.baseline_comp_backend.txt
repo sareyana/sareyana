@@ -1,0 +1,13 @@
+Baseline
+http://www.cnn.com,cnn
+http://www.medscape.com,medscape
+http://www.webmd.com,webmd
+http://www.chase.com,chase
+http://www.bankofamerica.com,bn
+http://www.bn.com,bn
+http://www.sify.com,sify
+http://www.google.com,google
+http://www.yahoo.com,yahoo
+http://www.aol.com,aol
+http://www.cnbc.com,cnbc
+http://www.rediff.com,rediff
